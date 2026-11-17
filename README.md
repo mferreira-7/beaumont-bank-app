@@ -4,7 +4,7 @@ Fictional mini bank built with Python, FastAPI, PostgreSQL and React. Double-ent
 
 **Status:** In progress (setting up the API and database)
 
-**Live demo:** [beaumont-bank-app](https://beaumont-bank-app.onrender.com/)
+**Live demo:** [Beaumont Bank](https://beaumont-bank-app.onrender.com/)
 
 ## Tech stack
 
