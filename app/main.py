@@ -7,7 +7,7 @@ app = FastAPI()
 
 @app.get("/", status_code=200)
 def root():
-    return {"message": "hello world"}
+    return {"message": "Beaumont Bank"}
 
 @app.get("/health", status_code=200)
 def health_check():
